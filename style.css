@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+body {
+  background: red;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
